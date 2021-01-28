@@ -16,22 +16,21 @@ sites:
     url: https://lakesideglobal.org
   - name: Lakeside Technology
     url: https://lakesidetechnology.org
-    
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: https://lakesidenetwork.github.io/website-uptime/
+  cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /website-uptime
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
   name: Lakeside Websites Status Page
-  theme: light
   introTitle: Status page to monitor all of Lakeside&#8217;s websites.
-  introMessage: 
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
-i18n:
-  footer: &copy; Copyright Lakeside.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
