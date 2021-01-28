@@ -31,5 +31,7 @@ status-website:
     - title: Status
       href: /
 
+i18n:
+  footer: &copy; Copyright Lakeside.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
