@@ -27,10 +27,8 @@ status-website:
   introTitle: 
   introMessage: Website monitoring for all Lakeside domains.
   navbar:
-    - title: Status
+    - title: All Sites
       href: /website-uptime
-    - title: Lakeside
-      href: https://lakeside.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
