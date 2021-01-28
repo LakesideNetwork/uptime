@@ -22,7 +22,7 @@ status-website:
   # cname: https://lakesidenetwork.github.io/website-uptime/
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /website-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
   name: Lakeside Websites Status Page
   theme: dark
   introTitle: Status page for all of Lakeside&#8217;s websites.
