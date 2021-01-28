@@ -30,8 +30,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Lakeside
-      href: https://lakeside.net
 
 i18n:
   footer: 
