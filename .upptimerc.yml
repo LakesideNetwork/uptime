@@ -19,7 +19,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /website-uptime
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
