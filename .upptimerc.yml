@@ -13,9 +13,9 @@ sites:
   - name: Lakeside Greenhouse
     url: https://lakesidegreenhouse.org
   - name: Lakeside Global
-    url: lakesideglobal.org
+    url: https://lakesideglobal.org
   - name: Lakeside Technology
-    url: lakesidetechnology.org
+    url: https://lakesidetechnology.org
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
   name: Lakeside Websites Status Page
   theme: light
-  introTitle: Status page for all of Lakeside&#8217;s websites.
+  introTitle: Status page to monitor all of Lakeside&#8217;s websites.
   introMessage: 
   navbar:
     - title: Status
