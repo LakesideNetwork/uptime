@@ -25,13 +25,13 @@ status-website:
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
   name: Lakeside Websites Status Page
   theme: light
-  introTitle: Monitors the uptime status of Lakeside&#8217;s websites.
+  introTitle: Status page for all of Lakeside&#8217;s websites.
   introMessage: 
   navbar:
     - title: Status
       href: /
 
 i18n:
-  footer: 
+  footer: &copy; Copyright Lakeside.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
