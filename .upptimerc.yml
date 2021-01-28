@@ -1,28 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: LakesideNetwork # Your GitHub username
+repo: website-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: LakesideLink
+    url: https://lakesidelink.com
+  - name: Lakeside Training
+    url: https://lakesidetraining.org
+  - name: Lakeside Garage
+    url: https://lakesidegarage.shop
+  - name: Lakeside Greenhouse
+    url: https://lakesidegreenhouse.org
+  - name: Lakeside Global
+    url: lakesideglobal.org
+  - name: Lakeside Technology
+    url: lakesidetechnology.org
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: https://lakesidenetwork.github.io/website-uptime/
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /website-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
