@@ -24,7 +24,7 @@ status-website:
   baseUrl: /website-uptime
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
   name: Lakeside Websites Status Page
-  theme: ocean
+  theme: light
   introTitle: Monitors the uptime status of Lakeside&#8217;s websites.
   introMessage: 
   navbar:
