@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
   name: Lakeside Websites Status Page
   introTitle: 
-  introMessage: Monitoring all of Lakeside&#8217;s websites.
+  introMessage: Website monitoring for all Lakeside domains.
   navbar:
     - title: Status
       href: /
