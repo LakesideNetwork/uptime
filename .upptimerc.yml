@@ -28,7 +28,7 @@ status-website:
   introMessage: Website monitoring for all Lakeside domains.
   navbar:
     - title: Status
-      href: /
+      href: /website-uptime
     - title: Lakeside
       href: https://lakeside.net
 
