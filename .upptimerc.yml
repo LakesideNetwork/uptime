@@ -23,9 +23,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /website-uptime
   logoUrl: https://lakesidelink.com/wp-content/uploads/2018/05/cropped-Lakeside_logo.png
-  name: Lakeside Websites Status Page
+  name: Lakeside Website Monitoring
   introTitle: 
-  introMessage: Website monitoring for all Lakeside domains.
+  introMessage: Website status monitoring for all Lakeside domains.
   navbar:
     - title: All Sites
       href: /website-uptime
